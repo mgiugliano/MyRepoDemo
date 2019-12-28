@@ -7,3 +7,11 @@ This is some more text
 
 
 
+### Materials and Methods
+Text here
+
+### Discussions and Conclusion
+Text here
+
+### References
+
