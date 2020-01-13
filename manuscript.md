@@ -6,6 +6,7 @@ This is some text, I **know**.
 
 This line has been added by [PreText](https://www.google.com) editor
 
+$$x = x + 1$$
 
 ### Materials and Methods
 Text there
